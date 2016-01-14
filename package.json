@@ -1,7 +1,7 @@
 {
   "name": "orderby-time",
   "description": "Curried function returning a new array sorted by time without mutating the original array.",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "author": "Wil Moore III <wil.moore@wilmoore.com>",
   "bugs": {
     "url": "https://github.com/wilmoore/orderby-time.js/issues"
